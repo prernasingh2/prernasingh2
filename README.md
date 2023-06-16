@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I’m Prerna Singh👋</h1>
 
-Welcome to my GitHub profile! I'm an space enthusiast and working currently on how to integrate machine learning with aerodpace domain,a 4th year B.Tech student in aerospace.
+Welcome to my GitHub profile! I'm an space enthusiast and working currently on how to integrate machine learning with aerospace domain,a 4th year B.Tech student.
 
 🔭 What I'm Currently Working On
 
